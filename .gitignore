@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+mlenv/
+env/
+
+# Environment variables / secrets
+.env
+
+# Dataset (not uploaded to GitHub)
+Datasets/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
